@@ -57,7 +57,7 @@
     "material-ui-chip-input": "^0.18.5",
     "moment": "^2.20.1",
     "popper.js": "^1.14.6",
-    "qs": "^6.5.1",
+    "qs": "^6.5.3",
     "react": "^15.5.3",
     "react-dom": "^15.5.3",
     "react-file-reader": "^1.1.3",
